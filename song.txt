@@ -2,12 +2,6 @@ tra-la-la
 ky-ky-ky
 opa-pa 
 4iki briki
-<<<<<<< HEAD
- 
+
 blaa bla bla
 --------------
-=======
-
-ta dam 
-4yx 4yx
->>>>>>> 717a002665e2f3a27a5c0f768346d57b260a6c7c
